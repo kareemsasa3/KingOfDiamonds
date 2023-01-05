@@ -7,7 +7,7 @@ public class Player {
 
     public Player(String name) {
         setName(name);
-        setScore(-7);
+        setScore(0);
     }
 
     public int getScore() {
