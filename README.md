@@ -79,8 +79,8 @@ ___
 * “If there are 2 people or more who choose the same number, the number they choose becomes invalid, meaning they will lose a point even if the number is 4/5ths the average.” — The reason this rule is put into place is to ensure that there can no longer be a nash equilibrium. Because of that, a new sense of danger arises, but there’s also a deeper layer of strategy.
 * “If someone chooses 0, the player who chooses 100 is the winner.”— The reason this rule is put into place is to balance the power of 0. By the time there are 2 players left, if anyone chooses 0, they’ll automatically win regardless of the number the other person choose. In that case, the person in the lead would continually pick 0. Even if the other player also choose 0, they’ll both lose points but the player with lesser points would die first. To balance that quirk, 100 overrides 0 as the victorious number.
 * In addition, by rule 3, the game essentially becomes a game of rock, paper, scissors between the numbers 0, 1, and 100.
-* This game is from the show __Alice in Borderland__.
 ___
 ### Credits
+* This game is from the show [Alice in Borderland](https://en.wikipedia.org/wiki/Alice_in_Borderland_(TV_series)).
 * The rules of this game were pulled from an online resource covering the show: [Alice In Borderland Fandom - King of Diamonds](https://aliceinborderland.fandom.com/wiki/King_of_Diamonds)
 ___
