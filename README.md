@@ -1,3 +1,4 @@
+___
 ### __Contents__
 1. [Game Overview](#game-overview)
    1. [Set-up](#set-up)
@@ -8,7 +9,7 @@
    3. [2 Players Left](#2-players-left)
 3. [Trivia](#trivia)
 4. [Credits](#credits)
-
+___
 ### Game Overview
 
 ### Set-up
@@ -47,7 +48,7 @@ __3 Players Remaining:__
 
 __2 Players Remaining:__
 * If someone chooses 0, the player who chooses 100 is the winner.
-
+___
 ### Strategy
 
 ### All Players Left:
@@ -69,7 +70,7 @@ In conclusion, this battle is three-way between 0, 1, and 2-100. 2-100 may look 
 ### 2 Players Left:
 
 When there are only 2 players left, it is most ideal for the person who is behind in points to choose 100, and for the person in the lead to select 1 or 0. Although 0 is the most powerful number to choose from, it is also balanced by 100.
-
+___
 ### Trivia
 * The King of Diamonds is the hardest Diamonds game.
 * It is a game of Keynesian Beauty Contest between 5 people.
@@ -79,6 +80,7 @@ When there are only 2 players left, it is most ideal for the person who is behin
 * “If someone chooses 0, the player who chooses 100 is the winner.”— The reason this rule is put into place is to balance the power of 0. By the time there are 2 players left, if anyone chooses 0, they’ll automatically win regardless of the number the other person choose. In that case, the person in the lead would continually pick 0. Even if the other player also choose 0, they’ll both lose points but the player with lesser points would die first. To balance that quirk, 100 overrides 0 as the victorious number.
 * In addition, by rule 3, the game essentially becomes a game of rock, paper, scissors between the numbers 0, 1, and 100.
 * This game is from the show __Alice in Borderland__.
-
+___
 ### Credits
 * The rules of this game were pulled from an online resource covering the show: [Alice In Borderland Fandom - King of Diamonds](https://aliceinborderland.fandom.com/wiki/King_of_Diamonds)
+___
